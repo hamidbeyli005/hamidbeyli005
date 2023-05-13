@@ -1,16 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Hamid</h1>
 <h3 align="center">A  web developer from Azerbaijan</h3>
-
+Hello, I'm Hamid, a frontend developer. I'm passionate about creating beautiful and functional web applications using modern technologies such as React.I'm always looking to collaborate with others and learn new things, so feel free to reach out if you have any questions or ideas you'd like to share!
 
 
 <h3 align="center">Connect with me:</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hamidbeyli005&color=green" alt="hamidbeyli005 :: Profile Stats"></a>
-<a href="mailto:hamidhamidbayli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamidhamidbayli@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/hamidhamidbeyli/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hamidhamidbeyli-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.instagram.com/hamid.beyli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hamid.beyli-black?style=flat-square&logo=instagram"></a>
-</p>
+
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
