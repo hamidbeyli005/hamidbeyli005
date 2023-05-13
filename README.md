@@ -1,7 +1,8 @@
 # <h1 align="center">Hi 👋, I'm Hamid</h1>
 <h3 align="center">A  web developer from Azerbaijan</h3>
 
-I'm Adem, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community and as the mobile team captain, I provide support to people who work on Android application development whenever I can, in [FUTAG][1], a club of our school.
+Hello, I'm Hamid, a frontend developer. I'm passionate about creating beautiful and functional web applications using modern technologies such as React.I'm always looking to collaborate with others and learn new things, so feel free to reach out if you have any questions or ideas you'd like to share!
+
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
