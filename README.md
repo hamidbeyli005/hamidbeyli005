@@ -1,6 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">A passionate web developer from Azerbaijan</h3>
-### Hi, Welcome To My Github Profile 👋 👋 👋
+<h3 align="center">A  web developer from Azerbaijan</h3>
 
 I'm Adem, I'm working on Android application development. I am sharing my projects here. I usually use the Kotlin programming language for Android projects. I am also a writer in the [MobilerDev][0] community and as the mobile team captain, I provide support to people who work on Android application development whenever I can, in [FUTAG][1], a club of our school.
 <h3 align="center">Connect with me:</h3>
