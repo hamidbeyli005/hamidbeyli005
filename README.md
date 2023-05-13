@@ -6,7 +6,7 @@ Hello, I'm Hamid, a frontend developer. I'm passionate about creating beautiful 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aticiadem&color=green" alt="hamidbeyli005 :: Profile Stats"></a>
+<img src="https://komarev.com/ghpvc/?username=hamidbeyli005&color=green" alt="hamidbeyli005 :: Profile Stats"></a>
 <a href="mailto:hamidhamidbayli@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamidhamidbayli@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/hamidhamidbeyli/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@hamidhamidbeyli-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/hamid.beyli/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hamid.beyli-black?style=flat-square&logo=instagram"></a>
