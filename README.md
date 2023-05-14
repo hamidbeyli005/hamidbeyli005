@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Hamid</h1>
+# <h1 align="center">Hi 👋, I'm Hamid Hamidbayli</h1>
 Hello, I'm Hamid, a frontend developer. I'm passionate about creating beautiful and functional web applications using modern technologies such as React.I'm always looking to collaborate with others and learn new things, so feel free to reach out if you have any questions or ideas you'd like to share!
 
 
