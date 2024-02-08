@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Hamid Hamidbayli</h1>
-Hello, I'm Hamid, a frontend developer. I'm passionate about creating beautiful and functional web applications using modern technologies such as React.I'm always looking to collaborate with others and learn new things, so feel free to reach out if you have any questions or ideas you'd like to share!
+Hello, I am a software developer enthusiastic about crafting user-centric websites and applications. I am adept at developing with React and proficient in utilizing tools like Git, Linux, CI/CD, and other modern technologies for web development. My expertise lies in areas such as responsive web design, performance optimization, and ensuring cross-browser compatibility. I am dedicated to continuous self-improvement and eagerly embrace learning new technologies
 
 
 <h3 align="center">Connect with me:</h3>
